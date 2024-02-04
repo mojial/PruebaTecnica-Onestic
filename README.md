@@ -31,4 +31,4 @@ El índice del proyecto indica brevemente como generar las tareas. De todas form
 
 - Acceder a la ruta: [localhost/functions/generateTask3.php]()
 
-Los archivos generados se guardaran en la carpeta taskCsv.
+Los archivos generados se guardaran en la carpeta tasksCsv.
